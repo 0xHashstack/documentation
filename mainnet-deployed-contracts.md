@@ -1,0 +1,21 @@
+---
+description: List of all contracts related to the tokens for the Mainnet V1.
+---
+
+# Mainnet Deployed Contracts
+
+| Name | rToken                                                                                                                                                               | dToken                                                                                                                                                               | Address                                                                                                                                                              |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| BTC  | [0x1320a9910e78afc18be65e4080b51ecc0ee5c0a8b6cc7ef4e685e02b50e57ef](https://starkscan.co/contract/0x1320a9910e78afc18be65e4080b51ecc0ee5c0a8b6cc7ef4e685e02b50e57ef) | [0x2614c784267d2026042ab98588f90efbffaade8982567e93530db4ed41201cf](https://starkscan.co/contract/0x2614c784267d2026042ab98588f90efbffaade8982567e93530db4ed41201cf) | [0x3fe2b97c1fd336e750087d68b9b867997fd64a2661ff3ca5a7c771641e8e7ac](https://starkscan.co/contract/0x3fe2b97c1fd336e750087d68b9b867997fd64a2661ff3ca5a7c771641e8e7ac) |
+| ETH  | [0x436d8d078de345c11493bd91512eae60cd2713e05bcaa0bb9f0cba90358c6e](https://starkscan.co/contract/0x436d8d078de345c11493bd91512eae60cd2713e05bcaa0bb9f0cba90358c6e)   | [0x1ef7f9f8bf01678dc6d27e2c26fb7e8eac3812a24752e6a1d6a49d153bec9f3](https://starkscan.co/contract/0x1ef7f9f8bf01678dc6d27e2c26fb7e8eac3812a24752e6a1d6a49d153bec9f3) | [0x49d36570d4e46f48e99674bd3fcc84644ddd6b96f7c741b1562b82f9e004dc7](https://starkscan.co/contract/0x49d36570d4e46f48e99674bd3fcc84644ddd6b96f7c741b1562b82f9e004dc7) |
+| USDT | [0x5fa6cc6185eab4b0264a4134e2d4e74be11205351c7c91196cb27d5d97f8d21](https://starkscan.co/contract/0x5fa6cc6185eab4b0264a4134e2d4e74be11205351c7c91196cb27d5d97f8d21) | [0x12b8185e237dd0340340faeb3351dbe53f8a42f5a9bf974ddf90ced56e301c7](https://starkscan.co/contract/0x12b8185e237dd0340340faeb3351dbe53f8a42f5a9bf974ddf90ced56e301c7) | [0x68f5c6a61780768455de69077e07e89787839bf8166decfbf92b645209c0fb8](https://starkscan.co/contract/0x68f5c6a61780768455de69077e07e89787839bf8166decfbf92b645209c0fb8) |
+| USDC | [0x3bcecd40212e9b91d92bbe25bb3643ad93f0d230d93237c675f46fac5187e8c](https://starkscan.co/contract/0x3bcecd40212e9b91d92bbe25bb3643ad93f0d230d93237c675f46fac5187e8c) | [0x21d8d8519f5464ec63c6b9a80a5229c5ddeed57ecded4c8a9dfc34e31b49990](https://starkscan.co/contract/0x21d8d8519f5464ec63c6b9a80a5229c5ddeed57ecded4c8a9dfc34e31b49990) | [0x53c91253bc9682c04929ca02ed00b3e423f6710d2ee7e0d5ebb06f3ecf368a8](https://starkscan.co/contract/0x53c91253bc9682c04929ca02ed00b3e423f6710d2ee7e0d5ebb06f3ecf368a8) |
+| DAI  | [0x19c981ec23aa9cbac1cc1eb7f92cf09ea2816db9cbd932e251c86a2e8fb725f](https://starkscan.co/contract/0x19c981ec23aa9cbac1cc1eb7f92cf09ea2816db9cbd932e251c86a2e8fb725f) | [0x7eeed99c095f83716e465e2c52a3ec8f47b323041ddc4f97778ac0393b7f358](https://starkscan.co/contract/0x7eeed99c095f83716e465e2c52a3ec8f47b323041ddc4f97778ac0393b7f358) | [0x0da114221cb83fa859dbdb4c44beeaa0bb37c7537ad5ae66fe5e0efd20e6eb3](https://starkscan.co/contract/0x0da114221cb83fa859dbdb4c44beeaa0bb37c7537ad5ae66fe5e0efd20e6eb3) |
+
+
+
+### Peripherals
+
+* Staking Address: [`0x5950cbbb7dbdb2303671515bb9e41ca0bf8937dc5ba929eebd276a3db3f854`](https://starkscan.co/contract/0x5950cbbb7dbdb2303671515bb9e41ca0bf8937dc5ba929eebd276a3db3f854)
+* Diamond Address: [`0x1b862c518939339b950d0d21a3d4cc8ead102d6270850ac8544636e558fab68`](https://starkscan.co/contract/0x1b862c518939339b950d0d21a3d4cc8ead102d6270850ac8544636e558fab68)
+* L3 Diamond Address: [`0x5bc2d5f739fd82c176fc420b7acdbbf856d35597bdc575338664e84379245df`](https://starkscan.co/contract/0x5bc2d5f739fd82c176fc420b7acdbbf856d35597bdc575338664e84379245df)
