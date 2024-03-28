@@ -9,6 +9,7 @@
   * [🏝️ Isolated margin](concepts/isolated-margin.md)
   * [💵 Debt management](concepts/debt-management.md)
   * [💻 Proxy/Upgrade Structure](concepts/proxy-upgrade-structure.md)
+* [📈 Degen Mode](degen-mode.md)
 * [💯 How to use Hashstack V1](how-to-use-hashstack-v1/README.md)
   * [How do I connect my wallet?](how-to-use-hashstack-v1/how-do-i-connect-my-wallet.md)
   * [Supply](how-to-use-hashstack-v1/supply.md)
