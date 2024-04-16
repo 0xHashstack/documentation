@@ -30,7 +30,7 @@
 * [Guide to Airdrop Campaign](https://docs.hashstack.finance/airdrop/)
 * [Risk Management Framework](https://docs.hashstack.finance/risk)
 * [💻 Developer Hub](https://docs.hashstack.finance/developers/)
-* [Content Creators Program (CCP)](content-creators-program-ccp.md)
+* [✍️ Content Creators Program (CCP)](content-creators-program-ccp.md)
 * [💰 Contribute-2-Earn](contribute-2-earn.md)
 * [🔗 Official links](official-links.md)
 * [📑 Mainnet V0.10 Guide](https://docs.hashstack.finance/mainnet-guide/)

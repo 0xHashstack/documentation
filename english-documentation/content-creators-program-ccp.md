@@ -1,4 +1,4 @@
-# Content Creators Program (CCP)
+# ✍️ Content Creators Program (CCP)
 
 We are introducing the "Content Creators Program", a campaign in which anyone can showcase their creativity by generating content about Hashstack and earn points!
 
