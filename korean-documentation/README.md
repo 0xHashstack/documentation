@@ -4,19 +4,13 @@
 
 Hashstack, kişilerin güvenli bir şekilde teminat altında kripto para birimi borçlanmasına olanak tanıyan sıfır ifşa bilgi kanıtı (ZK) kullanarak yerel olarak izinsiz bir para piyasası çözümü sağlayan bir protokoldür.  [Starknet L2](https://starkware.com) \[[announcement](https://www.bloomberg.com/press-releases/2022-08-08/announcing-hashstack-s-switch-to-starknet)] üzerine inşa edilen Hashstack, maliyet ve sermaye açısından verimli bir borç verme çözümü sağlamak için sıfır bilgi kanıtlarının (zero-knowledge proofs) kapasitesinden yararlanır.
 
-Hashstack provides a permissionless zk-native money market protocol enabling secure under-collateralised loans to the crypto retail. Built on [Starknet L2](https://starkware.com) \[[announcement](https://www.bloomberg.com/press-releases/2022-08-08/announcing-hashstack-s-switch-to-starknet)], Hashstack leverages the capability of zero-knowledge proofs to provide a cost & capital-efficient lending solution.
+Hashstack, mevcut para piyasalarının ([Compound](https://compound.finance/), [Aave](https://aave.com/), [Euler Finance](https://www.euler.finance/)) temellerini, riski daha iyi yönetmek ve temel bir temel olarak birleştirilebilirlik ile kullanıcılara katma değer sağlamak için çeşitli kör noktalarını ve gri alanlarını ele alarak geliştirir.
 
-Hashstack scales upon the foundations of incumbent money markets ([Compound](https://compound.finance/), [Aave](https://aave.com/), [Euler Finance](https://www.euler.finance/)) by addressing the blindspots & grey areas for better-balanced risks, and value-add for the system participants, with composability at its core.
+**Hashstack’s Open’ın temel bir özeti aşağıdaki gibidir:**
 
-**A basic summary of Hashstack's Open is as follows:**
+Aynı isimli protokol üzerinde geliştirilen Open sayesinde, dünyanın herhangi bir yerindeki herkes, güvenilir 3. taraflara ihtiyaç duymadan, tamamen izinsiz olarak teminatlarının beş katına kadar borç alabilir. Yani, 100 ABD Doları gibi düşük bir teminatla 500 ABD Dolarına kadar borç alınabilir. Bu, mevcut para piyasaları olan [Compound](https://compound.finance/), [Aave](https://aave.com/), [MakerDao](https://makerdao.com/en/). ile karşılaştırıldığında teminat karşılığında %600'ün üzerinde daha fazla kredi (borç alabilmek) anlamına gelmektedir.
 
-Developed on the protocol of the same name, through Open, anyone anywhere worldwide can borrow up to three times their collateral, completely permission-less, without the need for trusted 3rd parties. That is, one can borrow up to US$300 with collateral of as little as US$100. This is 328% more loan against the collateral when compared to the incumbent money markets — [Compound](https://compound.finance/), [Aave](https://aave.com/), [MakerDao](https://makerdao.com/en/).
+500 ABD doları tutarındaki kredi, sekme ve arayüz değiştirmeye gerek kalmadan doğrudan uygulamamızdaki [Yagi finance](https://yagi.fi/), [Jediswap](https://jediswap.xyz/) ve [MySwap](https://www.myswap.xyz/)’te tamamen ticari sermaye olarak harcanabilir.
 
+Bakiye kredinin mülkiyeti Open’da kalır ve borç alan kişi harcama hakkına sahiptir. Open, kredinin harcanabileceği zk L2 ve L1'ler arasında kritik yenilikteki dapp’leri entegre eder. Örneğin, bir borçlu 500 $ krediyi Starknet’teki DyDx’te eşdeğer BTC ile takas edebilir. Burada, varlıkların transferi Open & DyDx arasında bir protokol seviyesinde gerçekleşirken, kredi piyasasının durum değişikliği borç alan için kaydedilir. Eğer işlem pozitif bir getiri sağlarsa, borç alan bir kâr elde eder ve bu kâr kendilerinde kalır. Borçlu borcunu geri ödeyebilir ve işlemden pozitif getiri ile çıkabilir.
 
-
-The $300 loan can be spent in two ways.
-
-1. Use the loan in its entirety as trading capital.
-2. Withdraw a portion\[ up to $70, i.e. up to 70% collateral equivalent] into the borrower’s personal wallet, with the balance of $230 staying within the protocol to be used as trading capital.
-
-The ownership of the balance loan remains with the Open, with the borrower having the right to spend. Open integrates dapps of critical novelty across zk L2 & L1s, where the loan can be spent. For, eg, A borrower can trade the $300 loan for equivalent BTC on DyDx on Starknet. Here, the transfer of assets happens on a protocol level between Open & DyDx, while the state change of the loan market is recorded for the borrower. If the trade returns a positive yield, the borrower makes a profit, which is for his to keep. The borrower can repay the debt and exit the transaction with positive returns.
