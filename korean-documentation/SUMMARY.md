@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🙌 Genel Bakış](README.md)
+* [🙌 Overview](README.md)
 * [💡 Concepts](concepts.md)
 * [💯 101 Guides](101-guides/README.md)
   * [Supply](101-guides/supply.md)
