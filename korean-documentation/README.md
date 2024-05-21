@@ -1,6 +1,8 @@
-# 🙌 Overview
+# 🙌 Genel Bakış
 
 <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+Hashstack, kişilerin güvenli bir şekilde teminat altında kripto para birimi borçlanmasına olanak tanıyan sıfır ifşa bilgi kanıtı (ZK) kullanarak yerel olarak izinsiz bir para piyasası çözümü sağlayan bir protokoldür.  [Starknet L2](https://starkware.com) \[[announcement](https://www.bloomberg.com/press-releases/2022-08-08/announcing-hashstack-s-switch-to-starknet)] üzerine inşa edilen Hashstack, maliyet ve sermaye açısından verimli bir borç verme çözümü sağlamak için sıfır bilgi kanıtlarının (zero-knowledge proofs) kapasitesinden yararlanır.
 
 Hashstack provides a permissionless zk-native money market protocol enabling secure under-collateralised loans to the crypto retail. Built on [Starknet L2](https://starkware.com) \[[announcement](https://www.bloomberg.com/press-releases/2022-08-08/announcing-hashstack-s-switch-to-starknet)], Hashstack leverages the capability of zero-knowledge proofs to provide a cost & capital-efficient lending solution.
 
