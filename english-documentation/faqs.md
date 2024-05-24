@@ -44,7 +44,7 @@ You can deposit and borrow wBTC/wETH/USDC/USDT/DAI in Hashstack's primary market
 
 #### **How does Hashstack calculate interest rates?**
 
-Hashstack uses the asset utilization ratio to calculate the APRs for both liquidity providers and borrowers. To know more about our interest rate model, click [here](https://docs.hashstack.finance/risk/interest-rate-model). The interest rates also rely on DIAL (Dynamic Interest algorithm), making the APR variable. Learn more about DIAL in [this](https://blog.hashstack.finance/deconstructing-hashstacks-dynamic-interest-algorithm-dial/) article.
+Hashstack uses the asset utilization ratio to calculate the APRs for both liquidity providers and borrowers. To know more about our interest rate model, click [here](https://docs.hashstack.finance/risk/interest-rate-model).&#x20;
 
 #### **Is Hashstack secure?**
 
