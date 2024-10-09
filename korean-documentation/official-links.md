@@ -1,7 +1,7 @@
 # 🔗 Official links
 
-1. Testnet \[Starknet]: [testnet.hashstack.finance](https://testnet.hashstack.finance)​
-2. Community \[Discord]: [discord.gg/hashstack](https://discord.gg/hashstack)
+1. Testnet \[Base]: [testnet.hashstack.finance](https://testnet.hashstack.finance)​
+2. Community \[Discord]: [https://hashstack.community](https://hashstack.community)
 3. Website: [hashstack.finance](https://hashstack.finance)​
 4. Documentation: [docs.hashstack.finance](https://docs.hashstack.finance)
 5. Whitepaper: ​[Whitepaper V0.2.7](https://github.com/0xHashstack/whitepaper/blob/main/Open%20protocol/v0.2/Open%20protocol%20v0.2.7.pdf)​
