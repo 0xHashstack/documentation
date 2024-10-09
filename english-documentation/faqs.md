@@ -68,7 +68,7 @@ You can contribute via our Contribute-2-Earn Program, which is accessible throug
 
 #### I need more information that is not listed here.
 
-You can join our Discord community [here](https://discord.gg/hashstack). If it's a general question, you can ask in the #feedback channel, and if you require one-on-one assistance, you can raise a ticket in #help channel.
+You can join our Discord community [here](https://hashstack.community). If it's a general question, you can ask in the #feedback channel, and if you require one-on-one assistance, you can raise a ticket in #help channel.
 
 
 
@@ -104,11 +104,11 @@ No, that is fake. No one related to Hashstack will ever message anyone directly 
 
 #### **Whom can I contact about partnerships/integrations?**
 
-You can reach out to us on [Discord](https://discord.gg/hashstack). Feel free to raise a ticket in our server, and our mods will get back to you the soonest. You can also reach out through other platforms in our [Linktree](https://www.notion.so/5e958f44a3e74aa3b59511d5cb765c3e?pvs=21).
+You can reach out to us on [Discord](https://hashstack.community). Feel free to raise a ticket in our server, and our mods will get back to you the soonest.&#x20;
 
 #### **Can we offer our token in supply/borrow?**
 
-No. Only the permitted tokens (wBTC/wETH/USDC/USDT/DAI) in our primary markets are allowed.
+No. Only the permitted tokens (wBTC/wETH/USDC/USDT) in our primary markets are allowed.
 
 #### **Can you market our company/project if we pay you?**
 
