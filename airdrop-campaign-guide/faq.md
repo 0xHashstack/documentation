@@ -10,7 +10,7 @@
 
 **Q. How do I get access to the mainnet?**
 
-* Visit [#request-v1-access](https://discord.com/channels/907151419650482217/1176491088459071528) in our discord and get the link.
+* Hashstack V1 is open to everyone. You can access it from here - [app.hashstack.finance](https://app.hashstack.finance)
 
 
 
@@ -32,14 +32,6 @@
 * The loan health indicator shows whether your loan is currently healthy or facing potential liquidation. It is represented by a color code - green indicates good health, while red indicates that its nearing liquidation. The picture below represents a healthy loan position.
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
-**Q. What are V1OG NFTs?**
-
-* V1OG NFTs are the NFTs which provides additional rewards in campaigns and a lot more benefits. It will be issued to active community contributors, power users and ecosystem partners. It stands for "Version 1 Original Gangster".
 
 
 
