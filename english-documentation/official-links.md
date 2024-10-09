@@ -1,6 +1,6 @@
 # 🔗 Official links
 
-1. Testnet \[Starknet]: [testnet.hashstack.finance](https://testnet.hashstack.finance)​
+1. Testnet \[Base]: [testnet.hashstack.finance](https://testnet.hashstack.finance)​
 2. Community \[Discord]: [discord.gg/hashstack](https://discord.gg/hashstack)
 3. Website: [hashstack.finance](https://hashstack.finance)​
 4. Documentation: [docs.hashstack.finance](https://docs.hashstack.finance)
