@@ -76,29 +76,15 @@ You can join our Discord community [here](https://hashstack.community). If it's 
 
 #### **Have you launched a token?**
 
-We have not launched a token yet. Please follow our [blog](https://blog.hashstack.finance/) to stay updated.
+Yes, HSTK has been officially launched. For details, visit our official [blog](https://hashstack.medium.com/launching-hstk-token-bce9a8b5330a).
 
 #### **What are the tokenomics?**
 
-There is no public tokenomics for our project yet.
+The comprehensive details on HSTK tokenomics are available here on the [tokenomics](https://token.hashstack.finance/tokenomics/) page.
 
 #### **Is there a Token Generation Event/ Initial coin offering / Initial DEX offering?**
 
-We don't have any TGE/ICO/IDO events, yet. Our official blog will be release details regarding that.
-
-#### **How do I get an airdrop?**
-
-We haven't announced any airdrop as of now. Please follow our blog for official updates.
-
-#### **Do testnet users receive rewards?**
-
-No, the [testnet](http://testnet.hashstack.finance/) previews upcoming features and allows users to learn about the protocol without any mainnet gas fees. You can get XP points though, by completing various tasks on our [zealy](https://zealy.io/c/hashstack/questboard) page.
-
-#### **Someone messaged me promising free tokens/ICO/NFTs/etc. Is it real?**
-
-No, that is fake. No one related to Hashstack will ever message anyone directly nor offer free tokens or investments. In such incidents, please inform the team immediately.
-
-
+HSTK had its TGE in November 2024. Eligible users can claim their HSTK tokens here on the [provisions](https://token.hashstack.finance/provisions/) page.
 
 ## **Partnerships**
 
@@ -116,4 +102,4 @@ Hashstack does not accept payments or donations of any kind to promote events or
 
 #### **Where can I find Hashstack's logo?**
 
-You can access the official media kit [here](https://drive.google.com/drive/folders/1MwIGFymRuE8FWGDRCJjPBQwNBjhX\_Dro) and choose between SVG, PNG and JPEG formats with various dimensions.
+You can access the official media kit [here](https://drive.google.com/drive/folders/1MwIGFymRuE8FWGDRCJjPBQwNBjhX_Dro) and choose between SVG, PNG and JPEG formats with various dimensions.
