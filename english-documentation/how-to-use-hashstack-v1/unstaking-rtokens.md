@@ -8,37 +8,26 @@ coverY: 0
 
 Here are the steps:
 
-1. To stake your rTokens, you can click on "Stake" located in the nav bar. Alternatively, you can click on "Details" on the supply section of the market dashboard.
-
-<figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
-
 This is how staked tokens look like:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-12 at 4.14.02 PM.png" alt=""><figcaption></figcaption></figure>
 
+1. To unstake your rtokens, simply go to the "Your Supply" tab.
 
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-12 at 4.18.40 PM.png" alt=""><figcaption></figcaption></figure>
 
-2. Choose the option of Unstake, the supply market and the amount of tokens to be unstaked. After checking everything, click on "Unstake".
+2. In the supply tab, you can view your token supplies. Click the "Actions" button next to the supply you wish to unstake tokens from.
 
-<figure><img src="../.gitbook/assets/image (127).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-12 at 2.41.41 PM.png" alt=""><figcaption></figcaption></figure>
 
+3. Sign the transaction in your wallet by clicking on “Sign”.
 
-
-
-
-3. After clicking on the “Unstake” button, you need to sign the transaction in your wallet by clicking on “Sign”.
-
-<figure><img src="../.gitbook/assets/image (128).png" alt="" width="341"><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-12 at 4.29.08 PM.png" alt=""><figcaption></figcaption></figure>
 
 4. If there are no issues, then it will showcase the success notification.
 
-<figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
-
-###
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-12 at 4.31.24 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### Video tutorial on Unstaking
 
-{% embed url="https://youtu.be/NIOy3NCCBYY" %}
-
+{% embed url="https://www.youtube.com/watch?index=7&list=PLblZGyoIK7LoaODRn52pjFsqqiA46fGeg&v=dcF4KSgDi8c" %}

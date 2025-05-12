@@ -9,7 +9,7 @@ Here are the steps:
 
 1. Click on "your borrow" tab from the markets page and select on "actions" for the respective borrow id.
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-05-12 at 2.37.41 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-12 at 2.37.41 PM (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-05-12 at 2.41.41 PM.png" alt=""><figcaption></figcaption></figure>
 
