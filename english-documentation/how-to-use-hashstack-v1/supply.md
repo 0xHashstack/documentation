@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/V1_mainnet_Template_product_videos-10.jpg
+cover: ../.gitbook/assets/2.png
 coverY: 0
 ---
 
