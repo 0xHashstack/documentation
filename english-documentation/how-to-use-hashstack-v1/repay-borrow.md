@@ -12,32 +12,30 @@ Repay borrow typically involves repaying the loan by providing additional collat
 
 You can repay the loan anytime you want to:
 
-* Go to "your borrow" page. From the borrow actions, click on "Repay borrow" option.
+* Go to "your borrow" page.&#x20;
 
-<figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-12 at 2.37.41 PM.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+* In your borrow section, select the ID you want to repay the borrow for and click on "Actions" button.
 
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-13 at 12.25.45 PM.png" alt=""><figcaption></figcaption></figure>
 
+* Select the "Repay borrow" option from the dropdown menu.
 
-* Enter the amount that you want to repay if you choose "Repay borrow".
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-13 at 12.26.55 PM.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (132).png" alt="" width="375"><figcaption></figcaption></figure>
+* Enter the amount that you want to repay and click on the "Repay borrow" button.
 
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-13 at 12.28.08 PM.png" alt=""><figcaption></figcaption></figure>
 
+* Sign the transaction in your wallet.
 
-* Click on "Repay borrow" and sign the transaction in your wallet.
-
-<figure><img src="../.gitbook/assets/image (133).png" alt="" width="347"><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-13 at 12.28.55 PM.png" alt=""><figcaption></figcaption></figure>
 
 * If the transaction is successful, you will get the success notification.
 
-<figure><img src="../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-13 at 12.33.25 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### Video Tutorial
 
-{% embed url="https://youtu.be/rBx4t-Mw3iI" %}
+{% embed url="https://www.youtube.com/watch?index=6&list=PLblZGyoIK7LoaODRn52pjFsqqiA46fGeg&v=1-5G0bdeyCQ" %}
