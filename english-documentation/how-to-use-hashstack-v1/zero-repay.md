@@ -12,32 +12,30 @@ Zero repay refers to the ability to repay a loan without providing any additiona
 
 You can repay the loan anytime you want to:
 
-* Go to "your borrow" page. From the borrow actions, click on "Zero repay" option.
+* Go to "your borrow" page.&#x20;
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-12 at 2.37.41 PM.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+* In your borrow section, select the ID you want to repay the borrow for and click on "Actions" button.
 
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-13 at 12.25.45 PM.png" alt=""><figcaption></figcaption></figure>
 
+* Select the "Zero repay" option from the dropdown menu.
 
-* Enter the amount that you want to repay if you choose "Zero repay".
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-13 at 12.58.03 PM.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (14).png" alt="" width="375"><figcaption></figcaption></figure>
+* Enter the amount that you want to repay and click on the "Zero repay" button.
 
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-13 at 12.59.05 PM.png" alt=""><figcaption></figcaption></figure>
 
+* Sign the transaction in your wallet.
 
-* Click on "Zero repay" and sign the transaction in your wallet.
-
-<figure><img src="../.gitbook/assets/image (15).png" alt="" width="345"><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-13 at 1.00.02 PM.png" alt=""><figcaption></figcaption></figure>
 
 * If the transaction is successful, you will get the success notification.
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-13 at 1.09.00 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### Video Tutorial
 
-{% embed url="https://youtu.be/zs3eA704FF4" %}
+{% embed url="https://www.youtube.com/watch?index=5&list=PLblZGyoIK7LoaODRn52pjFsqqiA46fGeg&v=Q_hN9dCQmcI" %}
