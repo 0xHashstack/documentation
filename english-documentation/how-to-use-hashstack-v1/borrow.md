@@ -31,43 +31,6 @@ Let’s take a look at how we can borrow from the protocol:
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-05-12 at 1.13.15 PM.png" alt=""><figcaption></figcaption></figure>
 
-## Borrow Actions
-
-1. Access various actions for your borrow by navigating to the "Actions" tab on your borrow page. Simply click on it to explore and perform the available actions.
-
-<figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
-
-
-
-2. Perform actions on your borrow by following these steps:
-   1. Select the desired action from the available options.
-   2. Choose your specific Borrow ID and enter the repay amount, if applicable.
-   3. Click on the "Select Action" tab to initiate the chosen borrow action.
-
-<figure><img src="../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
-
-
-
-3. To demonstrate the **"Convert to borrow market"** action, follow these steps:
-   1. Select the "Convert to borrow market" option under the Action category.
-   2. Click on the "Convert to borrow market" button to initiate the transaction.
-
-<figure><img src="../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
-
-
-
-4. Confirm the borrowing process by signing the transaction.
-
-![](<../.gitbook/assets/image (52).png>)
-
-
-
-5. Upon a successful transaction, you will be presented with the following screen.
-
-<figure><img src="../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
-
-
-
 ### Video tutorial
 
 {% embed url="https://www.youtube.com/watch?index=13&list=PLblZGyoIK7LoaODRn52pjFsqqiA46fGeg&v=0HcRVfxl-d0" %}
