@@ -24,7 +24,7 @@ The contract exposes the following features for user and open contracts to inter
 
 1. **User:** Technically, a user can usually perform 3 main actions with supplier contract: Deposit, Withdraw & Transfer. User can further use the received rTokens as collateral to borrow or stake to earn higher yield.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Fig. 2 - Supply use-cases</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>Fig. 2 - Supply use-cases</p></figcaption></figure>
 
 2. **Open:** The supply contract provides special privileges to the Open contract to allow it for some book-keeping. These options include:
 

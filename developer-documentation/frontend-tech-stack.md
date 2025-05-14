@@ -14,7 +14,7 @@
 * Chakra UI is a popular open-source UI component library for React applications. It provides a set of customizable and accessible components that can significantly speed up the frontend development process.
 * Custom styling using native css for some components.
 
-<img src=".gitbook/assets/image (9).png" alt="" data-size="original">
+<img src=".gitbook/assets/image (7).png" alt="" data-size="original">
 
 #### State Management
 
@@ -31,9 +31,9 @@
 * React Toastify ([https://fkhadra.github.io/react-toastify/introduction](https://fkhadra.github.io/react-toastify/introduction))
 * Toasts enhance the user experience by providing concise updates on transaction outcomes, ensuring users are informed about successes and failures without disrupting their workflow. These unobtrusive notifications promote user satisfaction and informed decision-making.
 
-<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption><p>failure toast</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption><p>failure toast</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -8,7 +8,7 @@ get\_amount\_out(x) = quote(1000 - x) \[JediSwap functions]
 
 Opening this up results in a quadratic equation for x which then needs to be solved.
 
-We’ve referred to the implementation from JediSwap’s Zapper contract \[[Link to the page](https://github.com/mesh-finance/zapper-starknet/blob/initial\_poc/contracts/Zapper.cairo)].
+We’ve referred to the implementation from JediSwap’s Zapper contract \[[Link to the page](https://github.com/mesh-finance/zapper-starknet/blob/initial_poc/contracts/Zapper.cairo)].
 
 
 
