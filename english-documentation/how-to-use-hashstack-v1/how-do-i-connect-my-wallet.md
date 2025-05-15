@@ -9,61 +9,41 @@ Here’s the end-to-end process of creating an account on a Starknet L2 compatib
 ## Steps to create an account on Braavos
 
 * Download and install the Braavos chrome extension from [here](https://braavos.app/download-braavos-wallet/).
-* After installing the extension, we will come across the welcome screen.
-
-<img src="../.gitbook/assets/image (101).png" alt="" data-size="original">
+* After installing the extension, we will come across the welcome screen.\
 
 
+1. Click on create a New Wallet.
 
-* Create a password
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-15 at 7.19.12 PM.png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/image (61).png>)
+2. Set a secure password.
 
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-15 at 7.20.30 PM.png" alt=""><figcaption></figcaption></figure>
 
+3. The next screen, you will see your secret recovery phrase. Make sure to store it safely!
 
-* The next screen shows your the secret recovery phrase where you have the option to copy them. Please keep them safe!
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-15 at 7.21.28 PM.png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/image (30).png>)
+4. Enable 2FA for additional security.
 
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-15 at 7.22.25 PM.png" alt=""><figcaption></figcaption></figure>
 
+5. After completing these steps, your wallet is ready.
 
-* Next, click on “Starknet Mainnet Alpha” button.
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-15 at 7.23.13 PM.png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/image (42).png>)
+6. Once you create your account, you need to go [https://app.hashstack.finance/v1/](https://app.hashstack.finance/v1/) and connect your preferred wallet. Here, I'm using the braavos wallet.
 
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-15 at 7.24.19 PM.png" alt=""><figcaption></figcaption></figure>
 
+7. The wallet will open a prompt to approve the connection to the new dApp, so click on "Approve"
 
-* Accept the disclaimer to continue.
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-15 at 7.25.38 PM.png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/image (54).png>)
+8. Once connected, you will be able to access the dashboard.
 
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-15 at 7.26.20 PM.png" alt=""><figcaption></figcaption></figure>
 
+### Video Tutorial
 
-
-
-* To complete the creation of your account, you need to deposit some Ethereum.
-
-![](<../.gitbook/assets/image (37).png>)
-
-
-
-* Once you create your account on-chain, you need to go to [https://alpha.hashstack.finance](https://alpha.hashstack.finance) and connect your wallet.
-
-<figure><img src="../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
-* The wallet will open a prompt to approve the connection to the new dApp, so click on "Approve".
-
-<figure><img src="../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
-* You will be able to see the dashboard after connecting the wallet.
-
-<figure><img src="../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
-
+{% embed url="https://www.youtube.com/watch?index=3&list=PLblZGyoIK7LoaODRn52pjFsqqiA46fGeg&v=RrF7_jvndp4" %}
