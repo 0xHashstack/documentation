@@ -14,15 +14,15 @@ Here are the steps:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-05-15 at 5.27.22 PM.png" alt=""><figcaption></figcaption></figure>
 
-2. After choosing "Convert to borrow market", you can click on the button.
+4. After choosing "Convert to borrow market", you can click on the button.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-05-15 at 5.28.31 PM.png" alt=""><figcaption></figcaption></figure>
 
-3. Sign the transaction from your wallet.
+5. Sign the transaction from your wallet.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-05-15 at 5.29.17 PM.png" alt=""><figcaption></figcaption></figure>
 
-4. If the transaction is successful, you will get the success notification.
+6. If the transaction is successful, you will get the success notification.
 
 <figure><img src="../../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
 
