@@ -5,36 +5,34 @@ coverY: 0
 
 # Liquidity Provision
 
-1. The Spend Borrow page displays essential information about your borrowing, including borrow ID and borrowed amount, for easy reference and monitoring.
+1. Click on the "Borrow" button to spend your borrow for liquidity provisioning.
 
-<figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-05-15 at 5.34.25 PM.png" alt=""><figcaption></figcaption></figure>
 
+2. Switch the tab from borrow to trade option.
 
+<figure><img src="../../.gitbook/assets/Screenshot 2025-05-15 at 5.35.21 PM.png" alt=""><figcaption></figcaption></figure>
 
-2. Access multiple provisions such as liquidity provision, swap, stake, and trade to manage your borrowed assets effectively. Let's begin with the liquidity provision. You can choose from Yagi Finance, MySwap and JediSwap (Yagi is currently unavailable).
+3. Simply choose the collateral token, set the collateral amount, select the borrow market and enter the borrow amount.
 
-<figure><img src="../../.gitbook/assets/image (114).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-05-15 at 5.35.21 PM (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (119).png" alt="" width="375"><figcaption></figcaption></figure>
+4. Scroll down and select the liquidity provisioning option. Now, select the Dapp and pool to proceed.
 
+<figure><img src="../../.gitbook/assets/Screenshot 2025-05-15 at 5.37.58 PM.png" alt=""><figcaption></figcaption></figure>
 
+5. Click on the "Spend" button to complete the process.
 
+<figure><img src="../../.gitbook/assets/Screenshot 2025-05-15 at 5.37.58 PM.png" alt=""><figcaption></figcaption></figure>
 
+6. Now sign in the transaction and complete the process.
 
-3. Confirm the process by signing the transaction.
+<figure><img src="../../.gitbook/assets/Screenshot 2025-05-15 at 5.40.22 PM.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (117).png" alt="" width="375"><figcaption></figcaption></figure>
+7. The success notification will appear, once the transaction is successful.
 
-
-
-
-
-4. If there are no issues, then it will showcase the success notification.
-
-<figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/Screenshot 2025-05-15 at 5.42.37 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### Video tutorial
 
-{% embed url="https://youtu.be/rBjKA7oUYCQ" %}
+{% embed url="https://www.youtube.com/watch?index=10&list=PLblZGyoIK7LoaODRn52pjFsqqiA46fGeg&v=K8H5pYLsABU" %}
